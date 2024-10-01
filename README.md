@@ -1,5 +1,5 @@
 # Moj-Broj---Prolog-game
-Game for 2 players called Moj Broj made in Prolog for faculty project.
+Mathematical and logical game for 2 players called Moj Broj made in Prolog for faculty project.
 
 To start the game, it is necessary to install the SWI-Prolog development environment, which can be downloaded from the following website for the Windows operating system:
 
